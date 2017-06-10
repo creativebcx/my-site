@@ -59,8 +59,9 @@ body {
 	width: 40%;
 	text-align: right;
 	color: black;
+	height: 8%;
 }
 
 .icon-container i {
-	font-size: 150px;
+	font-size: 130px;
 }
